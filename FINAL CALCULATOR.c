@@ -1,11 +1,5 @@
-/* Aarsh Chaurasia
-   B-TECH SEMESTER 1
-   O12200300004003
-   ADVANCED CALCULATOR
-*/
 #include<stdio.h>
 #include<math.h>
-#include<conio.h>
 double sin(double);
 double cos(double);
 void main()
